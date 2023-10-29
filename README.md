@@ -6,7 +6,7 @@
   <h3 align="center">Formbricks</h3>
 
   <p align="center">
-    The Open Source Survey & Experience Management solution for fast growing companies
+    The Open Source Survey & Experience Management solution for fast-growing companies
     <br />
     <a href="https://formbricks.com/">Website</a>  |  <a href="https://formbricks.com/discord">Join Discord community</a>
   </p>
@@ -40,7 +40,7 @@
 
 To celebrate Hacktoberfest, we've launched our FormTribe hackathon. Write code or perform non-code side quests to collect points and increase your chances of winning the MacBook Air M2!
 
-**Join lottery with a [single tweet!](https://formtribe.com). All info on [formtribe.com](https://formtribe.com)**
+**Join the lottery with a [single tweet!](https://formtribe.com). All info on [formtribe.com](https://formtribe.com)**
 
 ## ✨ About Formbricks
 
@@ -56,7 +56,7 @@ Formbricks helps you apply best practices from data-driven work and experience m
 
 ### Features
 
-- 📲 Create **in-product surveys** with our no code editor with multiple question types.
+- 📲 Create **in-product surveys** with our no-code editor with multiple question types.
 - 📚 Choose from a variety of best-practice **templates**.
 - 👩🏻 Launch and **target your surveys to specific user groups** without changing your application code.
 - 🔗 Create shareable **link surveys**.
